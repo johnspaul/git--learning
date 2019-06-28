@@ -1,2 +1,3 @@
 Text with contents
 second line of content while learning git 
+third line
